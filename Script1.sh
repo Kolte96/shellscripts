@@ -5,6 +5,6 @@ echo "Hello, How are you?"
 echo "Welcome to Young Minds"
 echo "Hello batch-19, We are learning Develops"
 echo 'Hello'
-
-
 echo 'hhjoj'
+echo 'Hello'
+
